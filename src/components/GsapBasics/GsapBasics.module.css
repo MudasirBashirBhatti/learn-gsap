@@ -1,0 +1,13 @@
+.container {
+    padding: 50px;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background: royalblue;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
